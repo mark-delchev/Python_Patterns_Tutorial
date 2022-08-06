@@ -69,5 +69,5 @@ for i in range(n):
     print()
 ```
 
-<h4 align="center">Thank you for reading. Now with all those basic shapes you can create more complicated ones by putting them together.</h4>
+<h4 align="center">Thank you for reading. Now with all these basic shapes you can create more complicated ones by putting them together.</h4>
 <h4 align="center"><a href="https://replit.com/@MarkDelchev/patterns#main.py">Click here to test the code.</a></h4>
